@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    padding-top: 0px;
+    padding-left: 80px;
+}
+h1{
+font-size: 40px;
+font-family: 'Castoro Titling', cursive;
+padding-top: 200px;
+}
+p{
+  font-size: 20px;  
+  font-family: 'Bruno Ace SC', cursive;
+  
+}
+  .Lamborgini{
+    float: right;
+    padding-top: 0;
+    width: 600px;
+    position: relative;
+    padding-bottom: 60px;  
+    }
+    .btn {
+      background: #ffc728;
+      background-image: -webkit-linear-gradient(top, #ffc728, #666405);
+      background-image: -moz-linear-gradient(top, #ffc728, #666405);
+      background-image: -ms-linear-gradient(top, #ffc728, #666405);
+      background-image: -o-linear-gradient(top, #ffc728, #666405);
+      background-image: linear-gradient(to bottom, #ffc728, #666405);
+      -webkit-border-radius: 9;
+      -moz-border-radius: 9;
+      border-radius: 0px;
+      font-family: Georgia;
+      color: #ffffff;
+      font-size: 21px;
+      padding: 10px 20px 10px 20px;
+      text-decoration: none;
+    }
+    
+    .btn:hover {
+      background: #ffc728;
+      background-image: -webkit-linear-gradient(top, #ffc728, #b58910);
+      background-image: -moz-linear-gradient(top, #ffc728, #b58910);
+      background-image: -ms-linear-gradient(top, #ffc728, #b58910);
+      background-image: -o-linear-gradient(top, #ffc728, #b58910);
+      background-image: linear-gradient(to bottom, #ffc728, #b58910);
+      text-decoration: none;
+    }
+ 
+.color
+  {
+    background: linear-gradient(180deg,#ffc728,#000000);
+    text-decoration: underline black;
+  
+    font-size: 30px;
+    text-transform: uppercase;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
